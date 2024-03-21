@@ -1,15 +1,3 @@
----
-layout: post
-title: Physics Informed Neural Network 
-date: 2023-07-11 08:57:00-0400
-description: PINN for solving segregation problem
-tags: 
-categories: machine_learning
-related_posts: true
----
-
-
-<!-- <h1 align="left" style="color:purple;font-size: 2em;" >Overview</h1> -->
 
 
 <h2 style="color:purple;font-size: 2em;">Overview</h2>
